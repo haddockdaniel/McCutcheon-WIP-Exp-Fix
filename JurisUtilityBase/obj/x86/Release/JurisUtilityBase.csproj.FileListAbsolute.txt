@@ -1,0 +1,206 @@
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe.config
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe.manifest
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.application
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.pdb
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojResolveAssemblyReference.cache
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.Cache
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.exe.manifest
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.application
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.exe
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.pdb
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe.config
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe.manifest
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.application
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.pdb
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojAssemblyReference.cache
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.PrinterDialog.resources
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.ReportDisplay.resources
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.cache
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CoreCompileInputs.cache
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.exe.manifest
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.application
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CopyComplete
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.exe
+D:\Utilities Source\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.pdb
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojAssemblyReference.cache
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.PrinterDialog.resources
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.ReportDisplay.resources
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.cache
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CoreCompileInputs.cache
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CopyComplete
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\SBBB Fix Chart of Accounts.exe.config
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\SBBB Fix Chart of Accounts.exe.manifest
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\SBBB Fix Chart of Accounts.application
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\SBBB Fix Chart of Accounts.exe
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\bin\x86\Release\SBBB Fix Chart of Accounts.pdb
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\SBBB Fix Chart of Accounts.exe.manifest
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\SBBB Fix Chart of Accounts.application
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\SBBB Fix Chart of Accounts.exe
+D:\Utilities Source\JURIS UTILITY BASE\Juris .Net Utility Base\JurisUtilityBase\obj\x86\Release\SBBB Fix Chart of Accounts.pdb
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.PrinterDialog.resources
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.ReportDisplay.resources
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.cache
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CoreCompileInputs.cache
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CopyComplete
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JPS - Update Billing Cycle.exe.config
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JPS - Update Billing Cycle.exe.manifest
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JPS - Update Billing Cycle.application
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JPS - Update Billing Cycle.exe
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JPS - Update Billing Cycle.pdb
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojAssemblyReference.cache
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JPS - Update Billing Cycle.exe.manifest
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JPS - Update Billing Cycle.application
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JPS - Update Billing Cycle.exe
+D:\Utilities Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JPS - Update Billing Cycle.pdb
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.PrinterDialog.resources
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.ReportDisplay.resources
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.cache
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CoreCompileInputs.cache
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CopyComplete
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojAssemblyReference.cache
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JPS - Fix Billed Time Status.exe.config
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JPS - Fix Billed Time Status.exe.manifest
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JPS - Fix Billed Time Status.application
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JPS - Fix Billed Time Status.exe
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JPS - Fix Billed Time Status.pdb
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JPS - Fix Billed Time Status.exe.manifest
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JPS - Fix Billed Time Status.application
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JPS - Fix Billed Time Status.exe
+D:\Utility Repository\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JPS - Fix Billed Time Status.pdb
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JPS - UtilityTemplate.exe.config
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JPS - UtilityTemplate.exe.manifest
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JPS - UtilityTemplate.application
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JPS - UtilityTemplate.exe
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JPS - UtilityTemplate.pdb
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojAssemblyReference.cache
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.PrinterDialog.resources
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.ReportDisplay.resources
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.cache
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CoreCompileInputs.cache
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JPS - UtilityTemplate.exe.manifest
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JPS - UtilityTemplate.application
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CopyComplete
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JPS - UtilityTemplate.exe
+D:\Utility Repository\Source\DATA REVIEW UTILITY BASE\JurisUtilityBase\obj\x86\Release\JPS - UtilityTemplate.pdb
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.AssemblyReference.cache
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.PrinterDialog.resources
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.ReportDisplay.resources
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.cache
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CoreCompileInputs.cache
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CopyComplete
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\bin\x86\Release\Szaferman - 2022 Begin Balances.exe.config
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\bin\x86\Release\Szaferman - 2022 Begin Balances.exe.manifest
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\bin\x86\Release\Szaferman - 2022 Begin Balances.application
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\bin\x86\Release\Szaferman - 2022 Begin Balances.exe
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\bin\x86\Release\Szaferman - 2022 Begin Balances.pdb
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\obj\x86\Release\Szaferman - 2022 Begin Balances.exe.manifest
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\obj\x86\Release\Szaferman - 2022 Begin Balances.application
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\obj\x86\Release\Szaferman - 2022 Begin Balances.exe
+F:\Utilities\JPS - UTILITY TEMPLATE 2022\JPS - UTILITY TEMPLATE\JurisUtilityBase\obj\x86\Release\Szaferman - 2022 Begin Balances.pdb

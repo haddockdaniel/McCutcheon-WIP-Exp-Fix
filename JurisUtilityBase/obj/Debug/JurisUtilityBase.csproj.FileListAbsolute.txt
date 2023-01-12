@@ -1,0 +1,82 @@
+C:\Dev\Juris Scrum\Core\Branches\v2.7.1\Professional Services\JurisUtilityBase\JurisUtilityBase\bin\Debug\JurisUtilityBase.exe.config
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.AssemblyReference.cache
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.SuggestedBindingRedirects.cache
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.ResolveComReference.cache
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\obj\Debug\JurisUtilityBase.PrinterDialog.resources
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\obj\Debug\JurisUtilityBase.ReportDisplay.resources
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\obj\Debug\JurisUtilityBase.UtilityBaseMain.resources
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\obj\Debug\JurisUtilityBase.Properties.Resources.resources
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\obj\Debug\JurisUtilityBase.SplashScreen.resources
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.GenerateResource.cache
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.CoreCompileInputs.cache
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\bin\Debug\Szaferman - 2022 Begin Balances.exe.config
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\bin\Debug\Szaferman - 2022 Begin Balances.exe.manifest
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\bin\Debug\Szaferman - 2022 Begin Balances.application
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\bin\Debug\Szaferman - 2022 Begin Balances.exe
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\bin\Debug\Szaferman - 2022 Begin Balances.pdb
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\bin\Debug\C1.C1Report.4.dll
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\bin\Debug\C1.Win.C1Input.4.dll
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\bin\Debug\C1.Win.C1Report.4.dll
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\bin\Debug\Gizmox.Extensions.dll
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\bin\Debug\Ionic.Zlib.dll
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\bin\Debug\JurisAuthenticator.dll
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\bin\Debug\JurisDBO21.dll
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\bin\Debug\JurisIDef21.dll
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\bin\Debug\JurisStr21.dll
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\bin\Debug\JurisStr221.dll
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\bin\Debug\JurisSVR21.dll
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\obj\Debug\Szaferman - 2022 Begin Balances.exe.manifest
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\obj\Debug\Szaferman - 2022 Begin Balances.application
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.CopyComplete
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\obj\Debug\Szaferman - 2022 Begin Balances.exe
+D:\Utility Repository\Utilities\JPS - UTILITY TEMPLATE 2023\JurisUtilityBase\obj\Debug\Szaferman - 2022 Begin Balances.pdb
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\McCutcheon WIP Fix.exe.config
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\McCutcheon WIP Fix.exe.manifest
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\McCutcheon WIP Fix.application
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\McCutcheon WIP Fix.exe
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\McCutcheon WIP Fix.pdb
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\C1.C1Report.4.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\C1.Win.C1Input.4.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\C1.Win.C1Report.4.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\Gizmox.Extensions.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\Ionic.Zlib.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\JurisAuthenticator.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\JurisDBO21.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\JurisIDef21.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\JurisStr21.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\JurisStr221.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\JurisSVR21.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\ActiveReports6.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\ActiveReports.Document.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\FarPoint.Win.Spread.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\ActiveReports.Viewer6.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\FarPoint.Win.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\ActiveReports.XlsExport.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\ActiveReports.PdfExport.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\ActiveReports.TextExport.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\ActiveReports.RtfExport.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\ActiveReports.TiffExport.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\ActiveReports.HtmlExport.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\FarPoint.CalcEngine.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\FarPoint.Excel.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\FarPoint.Win.Chart.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\FarPoint.PluginCalendar.WinForms.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\FarPoint.PDF.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\FarPoint.Localization.dll
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\FarPoint.CalcEngine.xml
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\FarPoint.Win.Chart.xml
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\bin\Debug\FarPoint.PluginCalendar.WinForms.xml
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.AssemblyReference.cache
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.ResolveComReference.cache
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\obj\Debug\JurisUtilityBase.PrinterDialog.resources
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\obj\Debug\JurisUtilityBase.ReportDisplay.resources
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\obj\Debug\JurisUtilityBase.UtilityBaseMain.resources
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\obj\Debug\JurisUtilityBase.Properties.Resources.resources
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\obj\Debug\JurisUtilityBase.SplashScreen.resources
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.GenerateResource.cache
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.CoreCompileInputs.cache
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\obj\Debug\McCutcheon WIP Fix.exe.manifest
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\obj\Debug\McCutcheon WIP Fix.application
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.CopyComplete
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\obj\Debug\McCutcheon WIP Fix.exe
+D:\Projects\McCutcheon WIP Exp Fix\JurisUtilityBase\obj\Debug\McCutcheon WIP Fix.pdb
