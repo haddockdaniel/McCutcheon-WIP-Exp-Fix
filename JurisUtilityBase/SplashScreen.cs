@@ -43,12 +43,17 @@ namespace JurisUtilityBase
             
             this.labelVersion.Text = VerLabel;
             this.labelCopyright.Text = @"Copyright © 1996-" + DateTime.Now.Year;
-            this.labelAppName.Text = Application.ProductName;
+            this.labelAppName.Text = "McCutcheon WIP Fix";
             this.labelCompany.Text = Application.CompanyName;
             this.Refresh();
         }
 
         private void labelCopyright_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelAppName_Click(object sender, EventArgs e)
         {
 
         }

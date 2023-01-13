@@ -47,7 +47,7 @@
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(-4, 275);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(341, 64);
+            this.pictureBox1.Size = new System.Drawing.Size(115, 31);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -62,6 +62,7 @@
             this.labelAppName.TabIndex = 1;
             this.labelAppName.Text = "[App Name]";
             this.labelAppName.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.labelAppName.Click += new System.EventHandler(this.labelAppName_Click);
             // 
             // labelStatus
             // 
@@ -87,7 +88,7 @@
             this.labelVersion.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelVersion.Location = new System.Drawing.Point(11, 241);
             this.labelVersion.Name = "labelVersion";
-            this.labelVersion.Size = new System.Drawing.Size(54, 16);
+            this.labelVersion.Size = new System.Drawing.Size(55, 16);
             this.labelVersion.TabIndex = 5;
             this.labelVersion.Text = "Version ";
             // 
@@ -95,18 +96,18 @@
             // 
             this.labelCopyright.AutoSize = true;
             this.labelCopyright.Font = new System.Drawing.Font("Arial", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelCopyright.Location = new System.Drawing.Point(195, 243);
+            this.labelCopyright.Location = new System.Drawing.Point(181, 244);
             this.labelCopyright.Name = "labelCopyright";
             this.labelCopyright.Size = new System.Drawing.Size(120, 14);
             this.labelCopyright.TabIndex = 6;
-            this.labelCopyright.Text = "Copyright © 1996-2021";
+            this.labelCopyright.Text = "Copyright © 1996-2023";
             this.labelCopyright.Click += new System.EventHandler(this.labelCopyright_Click);
             // 
             // labelCompany
             // 
             this.labelCompany.AutoSize = true;
             this.labelCompany.Font = new System.Drawing.Font("Arial", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelCompany.Location = new System.Drawing.Point(209, 258);
+            this.labelCompany.Location = new System.Drawing.Point(181, 258);
             this.labelCompany.Name = "labelCompany";
             this.labelCompany.Size = new System.Drawing.Size(106, 14);
             this.labelCompany.TabIndex = 7;
@@ -127,7 +128,7 @@
             this.BackColor = System.Drawing.SystemColors.Window;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.ClientSize = new System.Drawing.Size(315, 315);
+            this.ClientSize = new System.Drawing.Size(307, 307);
             this.ControlBox = false;
             this.Controls.Add(this.label1);
             this.Controls.Add(this.labelCompany);

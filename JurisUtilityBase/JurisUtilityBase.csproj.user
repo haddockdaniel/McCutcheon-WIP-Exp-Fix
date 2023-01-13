@@ -2,7 +2,7 @@
 <Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectView>ShowAllFiles</ProjectView>
-    <PublishUrlHistory>C:\Juris\Szaferman - 2022 Begin Balances\|C:\Juris\McCabe - Year End Fix\|C:\Juris\JPS - UtilityTemplate\|C:\Juris\JPS - Fix Billed Time Status\|C:\Juris\JPS - Fix Accounting Period 13\</PublishUrlHistory>
+    <PublishUrlHistory>C:\Juris\McCutcheon WIP Fix\|C:\Juris\Szaferman - 2022 Begin Balances\|C:\Juris\McCabe - Year End Fix\|C:\Juris\JPS - UtilityTemplate\|C:\Juris\JPS - Fix Billed Time Status\</PublishUrlHistory>
     <InstallUrlHistory />
     <SupportUrlHistory />
     <UpdateUrlHistory />

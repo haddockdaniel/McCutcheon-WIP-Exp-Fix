@@ -168,9 +168,14 @@ namespace JurisUtilityBase
             _commands[command].CommandText = sql;
             using (var da = new SqlDataAdapter())
             {
-                da.SelectCommand = _commands[command];
-                ds = new DataSet();
-                da.Fill(ds);
+                try
+                {
+                    da.SelectCommand = _commands[command];
+                    ds = new DataSet();
+                    da.Fill(ds);
+                }
+                catch (Exception xxxx)
+                { MessageBox.Show(sql);}
             }
             return ds;
         }

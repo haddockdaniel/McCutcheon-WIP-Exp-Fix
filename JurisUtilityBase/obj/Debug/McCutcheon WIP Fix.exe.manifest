@@ -379,14 +379,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="McCutcheon WIP Fix.exe" size="1056768">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="McCutcheon WIP Fix.exe" size="1057280">
       <assemblyIdentity name="McCutcheon WIP Fix" version="2.1.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>04H3byWWJsklSYRWSdTfAbBktAB2S74oG3JRXBz7G7E=</dsig:DigestValue>
+        <dsig:DigestValue>eQ8XZrcDZMrf5MsUmvd+1VCzNY4Eg3S9wYd7j44u1KM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -126,6 +126,12 @@ namespace JurisUtilityBase
                 UpdateStatus("Executing Data Fix...", 15, 20);
                 Application.DoEvents();
 
+                s1 = @"EXEC sp_msforeachtable 'ALTER TABLE ? NOCHECK CONSTRAINT all'";
+                _jurisUtility.ExecuteNonQueryCommand(0, s1);
+
+                s1 = @"EXEC sp_MSforeachtable 'ALTER TABLE ? DISABLE TRIGGER ALL'";
+                _jurisUtility.ExecuteNonQueryCommand(0, s1);
+
                 s1 = @"update UnbilledExpense set UEExpCd = 'CONV'
                     where UEDate <= '08/16/2022'";
                 _jurisUtility.ExecuteNonQueryCommand(0, s1);
@@ -196,7 +202,7 @@ namespace JurisUtilityBase
                     {
                         //does record exist? if yes, update, if not, create
                         s1 = @"SELECT  * FROM [ExpSumITD]
-                        where ESPMatter = " + dr[0].ToString() + " and ESIExpCd = '" + dr[1].ToString() + "'";
+                        where ESiMatter = " + dr[0].ToString() + " and ESIExpCd = '" + dr[1].ToString() + "'";
                         DataSet fs = _jurisUtility.RecordsetFromSQL(s1);
                         if (fs == null || fs.Tables.Count == 0 || fs.Tables[0].Rows.Count == 0)
                         {
@@ -230,7 +236,13 @@ namespace JurisUtilityBase
 
 
 
+                s1 = @"EXEC sp_MSForEachTable 'ALTER TABLE ? CHECK CONSTRAINT ALL'";
+                _jurisUtility.ExecuteNonQueryCommand(0, s1);
 
+                s1 = @"EXEC sp_MSForEachTable 'ENABLE TRIGGER ALL ON ?'";
+                _jurisUtility.ExecuteNonQueryCommand(0, s1);
+
+                MessageBox.Show("Data fix complete", "Success");
 
 
             }
@@ -249,7 +261,8 @@ namespace JurisUtilityBase
                 Application.DoEvents();
 
             }
-                
+
+
 
 
 
